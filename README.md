@@ -8,10 +8,10 @@ Native encrypted vault application for macOS built with SwiftUI and SwiftData, u
 
 | Release | Version | Build | Architecture | Direct Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **Latest** | `1.7.0` | `8` | Apple Silicon (`arm64`) | [**Download Aravind-Tools-Mac-v1.7.0.zip**](https://github.com/dlaravindgoud-h/aravind-tools-for-mac-release/raw/main/Aravind-Tools-Mac-v1.7.0.zip) |
+| **Latest** | `1.7.1` | `9` | Apple Silicon (`arm64`) | [**Download Aravind-Tools-Mac-v1.7.1.zip**](https://github.com/dlaravindgoud-h/aravind-tools-for-mac-release/raw/main/Aravind-Tools-Mac-v1.7.1.zip) |
 
 > **Direct Download Link**:  
-> 👉 [https://github.com/dlaravindgoud-h/aravind-tools-for-mac-release/raw/main/Aravind-Tools-Mac-v1.7.0.zip](https://github.com/dlaravindgoud-h/aravind-tools-for-mac-release/raw/main/Aravind-Tools-Mac-v1.7.0.zip)
+> 👉 [https://github.com/dlaravindgoud-h/aravind-tools-for-mac-release/raw/main/Aravind-Tools-Mac-v1.7.1.zip](https://github.com/dlaravindgoud-h/aravind-tools-for-mac-release/raw/main/Aravind-Tools-Mac-v1.7.1.zip)
 
 ---
 
@@ -20,7 +20,7 @@ Native encrypted vault application for macOS built with SwiftUI and SwiftData, u
 Because this application is distributed directly for evaluation (outside the Mac App Store) and is ad-hoc signed, macOS Gatekeeper attaches a quarantine attribute upon downloading.
 
 ### 1. Install
-- Download and unzip `Aravind-Tools-Mac-v1.7.0.zip`.
+- Download and unzip `Aravind-Tools-Mac-v1.7.1.zip`.
 - Drag **Aravind Tools.app** into your **`/Applications`** folder.
 
 ### 2. First-Time Launch (Choose Option A or B)
